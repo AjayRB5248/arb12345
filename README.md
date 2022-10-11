@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ajayranabhatofficial@gmail.com**
 
-- 📄 Know about my experiences [www.ajayranabhat.com.np](www.ajayranabhat.com.np)
+- 📄 Know about my experiences [www.ajayranabhat.com.np]
 
 - ⚡ Fun fact **I am Shy but Funny.**
 
