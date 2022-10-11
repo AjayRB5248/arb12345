@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.Js,React.Js,Node.Js,Express.js,MongoDb**
 
-- 👨‍💻 All of my projects are available at [www.ajayranabhat.com.np](www.ajayranabhat.com.np)
+- 👨‍💻 All of my projects are available at [www.ajayranabhat.com.np]
 
 - 💬 Ask me about **MERN**
 
